@@ -23,7 +23,9 @@ The number of electric vehicles (EVs) in developed countries is proliferating. T
 
 ## Screenshots
 
-![Network](https://github.com/prvnpandey/EV_Torino/blob/38825a1fbfb65fb1a134c82a16b536dca88b5b57/vehicle%20atr%208.PNG)
+![Network](/vehicle%20atr%208.PNG)
+![Charging Location](/charging_locations.PNG)
+![Network](/network.PNG)
 
 
 ## Authors
