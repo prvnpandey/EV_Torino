@@ -30,6 +30,10 @@ The number of electric vehicles (EVs) in developed countries is proliferating. T
 
 - [@praveen kumar pandey](https://www.github.com/prvnpandey)
 
+## Simulation
+
+![Simulation Demo](/final_video.mp4)
+
 
 ## Licenses
 
@@ -49,7 +53,5 @@ Other data files, in particular in original-input-data, have their own individua
 If you have any feedback, please reach out to us at prvnpandey2010@gmail.com
 
 
-## Demo
 
-Insert gif or link to demo
 
