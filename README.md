@@ -23,9 +23,11 @@ The number of electric vehicles (EVs) in developed countries is proliferating. T
 
 ## Screenshots
 
+![Network](/network.PNG)
+
 ![Network](/vehicle%20atr%208.PNG)
 ![Charging Location](/charging_locations.PNG)
-![Network](/network.PNG)
+
 
 
 ## Authors
