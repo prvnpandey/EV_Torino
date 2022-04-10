@@ -1,5 +1,5 @@
 
-# MATSim Torino Electric Vehicle Simualtion on Large Scale Network
+# Torino Electric Vehicle Simualtion on Large Scale Network using MATSim
 
 The number of electric vehicles (EVs) in developed countries is proliferating. This increase in EV leads to operational challenges, including daily energy requirements, charging infrastructure and battery size design. An agent-based approach is adopted for modelling multi-day traffic data using floating car data to detect EV's trip-chains. The paper comprises two main sections: firstly, the road network calibration process has resulted in more reliable travel time and speed estimation per trip. As a result, the squared error of simulated average speed per Origin-Destination is reduced by 50% compared with floating car data. Secondly, a baseline scenario with current and innovative battery sizes is simulated for a week. Additionally, energy consumption model for vehicles considering average speed and road slope in the cumulative estimation of the energy required during travel. Finally, the spatial results of energy consumption, charging, and waiting time at charging stations over a week are calculated.
 
